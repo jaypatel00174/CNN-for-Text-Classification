@@ -42,3 +42,5 @@ References
 Convolutional Neural Networks for Sentence Classification
 
 A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification
+
+For understandigs refer :http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
